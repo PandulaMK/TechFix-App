@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kariy\\source\\repos\\Supplier1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12DBBD85-B086-48CE-AB21-1C8A2E35F620}|Supplier1\\Supplier1.csproj|c:\\users\\kariy\\source\\repos\\supplier1\\supplier1\\data\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12DBBD85-B086-48CE-AB21-1C8A2E35F620}|Supplier1\\Supplier1.csproj|solutionrelative:supplier1\\data\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12DBBD85-B086-48CE-AB21-1C8A2E35F620}|Supplier1\\Supplier1.csproj|c:\\users\\kariy\\source\\repos\\supplier1\\supplier1\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12DBBD85-B086-48CE-AB21-1C8A2E35F620}|Supplier1\\Supplier1.csproj|solutionrelative:supplier1\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12DBBD85-B086-48CE-AB21-1C8A2E35F620}|Supplier1\\Supplier1.csproj|c:\\users\\kariy\\source\\repos\\supplier1\\supplier1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12DBBD85-B086-48CE-AB21-1C8A2E35F620}|Supplier1\\Supplier1.csproj|solutionrelative:supplier1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12DBBD85-B086-48CE-AB21-1C8A2E35F620}|Supplier1\\Supplier1.csproj|c:\\users\\kariy\\source\\repos\\supplier1\\supplier1\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12DBBD85-B086-48CE-AB21-1C8A2E35F620}|Supplier1\\Supplier1.csproj|solutionrelative:supplier1\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12DBBD85-B086-48CE-AB21-1C8A2E35F620}|Supplier1\\Supplier1.csproj|c:\\users\\kariy\\source\\repos\\supplier1\\supplier1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12DBBD85-B086-48CE-AB21-1C8A2E35F620}|Supplier1\\Supplier1.csproj|solutionrelative:supplier1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12DBBD85-B086-48CE-AB21-1C8A2E35F620}|Supplier1\\Supplier1.csproj|c:\\users\\kariy\\source\\repos\\supplier1\\supplier1\\model\\orderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12DBBD85-B086-48CE-AB21-1C8A2E35F620}|Supplier1\\Supplier1.csproj|solutionrelative:supplier1\\model\\orderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12DBBD85-B086-48CE-AB21-1C8A2E35F620}|Supplier1\\Supplier1.csproj|c:\\users\\kariy\\source\\repos\\supplier1\\supplier1\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12DBBD85-B086-48CE-AB21-1C8A2E35F620}|Supplier1\\Supplier1.csproj|solutionrelative:supplier1\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12DBBD85-B086-48CE-AB21-1C8A2E35F620}|Supplier1\\Supplier1.csproj|c:\\users\\kariy\\source\\repos\\supplier1\\supplier1\\dto\\dtocreateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12DBBD85-B086-48CE-AB21-1C8A2E35F620}|Supplier1\\Supplier1.csproj|solutionrelative:supplier1\\dto\\dtocreateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12DBBD85-B086-48CE-AB21-1C8A2E35F620}|Supplier1\\Supplier1.csproj|c:\\users\\kariy\\source\\repos\\supplier1\\supplier1\\profiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12DBBD85-B086-48CE-AB21-1C8A2E35F620}|Supplier1\\Supplier1.csproj|solutionrelative:supplier1\\profiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12DBBD85-B086-48CE-AB21-1C8A2E35F620}|Supplier1\\Supplier1.csproj|c:\\users\\kariy\\source\\repos\\supplier1\\supplier1\\dto\\dtoreadproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12DBBD85-B086-48CE-AB21-1C8A2E35F620}|Supplier1\\Supplier1.csproj|solutionrelative:supplier1\\dto\\dtoreadproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12DBBD85-B086-48CE-AB21-1C8A2E35F620}|Supplier1\\Supplier1.csproj|c:\\users\\kariy\\source\\repos\\supplier1\\supplier1\\data\\orderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12DBBD85-B086-48CE-AB21-1C8A2E35F620}|Supplier1\\Supplier1.csproj|solutionrelative:supplier1\\data\\orderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12DBBD85-B086-48CE-AB21-1C8A2E35F620}|Supplier1\\Supplier1.csproj|c:\\users\\kariy\\source\\repos\\supplier1\\supplier1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12DBBD85-B086-48CE-AB21-1C8A2E35F620}|Supplier1\\Supplier1.csproj|solutionrelative:supplier1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1013369848:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "C:\\Users\\kariy\\source\\repos\\Supplier1\\Supplier1\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "Supplier1\\Controllers\\SupplierController.cs",
+              "ToolTip": "C:\\Users\\kariy\\source\\repos\\Supplier1\\Supplier1\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "Supplier1\\Controllers\\SupplierController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T05:38:57.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kariy\\source\\repos\\Supplier1\\Supplier1\\Program.cs",
+              "RelativeDocumentMoniker": "Supplier1\\Program.cs",
+              "ToolTip": "C:\\Users\\kariy\\source\\repos\\Supplier1\\Supplier1\\Program.cs",
+              "RelativeToolTip": "Supplier1\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T05:21:49.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\kariy\\source\\repos\\Supplier1\\Supplier1\\Model\\OrderRequest.cs",
+              "RelativeDocumentMoniker": "Supplier1\\Model\\OrderRequest.cs",
+              "ToolTip": "C:\\Users\\kariy\\source\\repos\\Supplier1\\Supplier1\\Model\\OrderRequest.cs",
+              "RelativeToolTip": "Supplier1\\Model\\OrderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T05:02:55.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\kariy\\source\\repos\\Supplier1\\Supplier1\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "Supplier1\\Model\\Order.cs",
+              "ToolTip": "C:\\Users\\kariy\\source\\repos\\Supplier1\\Supplier1\\Model\\Order.cs",
+              "RelativeToolTip": "Supplier1\\Model\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T05:02:20.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "C:\\Users\\kariy\\source\\repos\\Supplier1\\Supplier1\\Data\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "Supplier1\\Data\\ProductRepo.cs",
+              "ToolTip": "C:\\Users\\kariy\\source\\repos\\Supplier1\\Supplier1\\Data\\ProductRepo.cs",
+              "RelativeToolTip": "Supplier1\\Data\\ProductRepo.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAApwD4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T05:33:15.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\kariy\\source\\repos\\Supplier1\\Supplier1\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Supplier1\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\kariy\\source\\repos\\Supplier1\\Supplier1\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Supplier1\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T05:37:03.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\kariy\\source\\repos\\Supplier1\\Supplier1\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "Supplier1\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\kariy\\source\\repos\\Supplier1\\Supplier1\\Model\\Product.cs",
+              "RelativeToolTip": "Supplier1\\Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T05:01:30.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DTOCreateProduct.cs",
+              "DocumentMoniker": "C:\\Users\\kariy\\source\\repos\\Supplier1\\Supplier1\\DTO\\DTOCreateProduct.cs",
+              "RelativeDocumentMoniker": "Supplier1\\DTO\\DTOCreateProduct.cs",
+              "ToolTip": "C:\\Users\\kariy\\source\\repos\\Supplier1\\Supplier1\\DTO\\DTOCreateProduct.cs",
+              "RelativeToolTip": "Supplier1\\DTO\\DTOCreateProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T05:40:49.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DTOReadProduct.cs",
+              "DocumentMoniker": "C:\\Users\\kariy\\source\\repos\\Supplier1\\Supplier1\\DTO\\DTOReadProduct.cs",
+              "RelativeDocumentMoniker": "Supplier1\\DTO\\DTOReadProduct.cs",
+              "ToolTip": "C:\\Users\\kariy\\source\\repos\\Supplier1\\Supplier1\\DTO\\DTOReadProduct.cs",
+              "RelativeToolTip": "Supplier1\\DTO\\DTOReadProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T05:41:27.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderRepo.cs",
+              "DocumentMoniker": "C:\\Users\\kariy\\source\\repos\\Supplier1\\Supplier1\\Data\\OrderRepo.cs",
+              "RelativeDocumentMoniker": "Supplier1\\Data\\OrderRepo.cs",
+              "ToolTip": "C:\\Users\\kariy\\source\\repos\\Supplier1\\Supplier1\\Data\\OrderRepo.cs",
+              "RelativeToolTip": "Supplier1\\Data\\OrderRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T05:34:26.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductProfile.cs",
+              "DocumentMoniker": "C:\\Users\\kariy\\source\\repos\\Supplier1\\Supplier1\\Profiles\\ProductProfile.cs",
+              "RelativeDocumentMoniker": "Supplier1\\Profiles\\ProductProfile.cs",
+              "ToolTip": "C:\\Users\\kariy\\source\\repos\\Supplier1\\Supplier1\\Profiles\\ProductProfile.cs",
+              "RelativeToolTip": "Supplier1\\Profiles\\ProductProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T05:43:49.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\kariy\\source\\repos\\Supplier1\\Supplier1\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Supplier1\\Data\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\kariy\\source\\repos\\Supplier1\\Supplier1\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "Supplier1\\Data\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T05:07:03.211Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

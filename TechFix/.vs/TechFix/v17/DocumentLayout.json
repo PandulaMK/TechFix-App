@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kariy\\source\\repos\\TechFix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{485307E9-A50D-49BD-83DC-3259F1DBB8D1}|TechFix\\TechFix.csproj|c:\\users\\kariy\\source\\repos\\techfix\\techfix\\supinventoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{485307E9-A50D-49BD-83DC-3259F1DBB8D1}|TechFix\\TechFix.csproj|solutionrelative:techfix\\supinventoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485307E9-A50D-49BD-83DC-3259F1DBB8D1}|TechFix\\TechFix.csproj|C:\\Users\\kariy\\source\\repos\\TechFix\\techfix\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{485307E9-A50D-49BD-83DC-3259F1DBB8D1}|TechFix\\TechFix.csproj|solutionrelative:techfix\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485307E9-A50D-49BD-83DC-3259F1DBB8D1}|TechFix\\TechFix.csproj|C:\\Users\\kariy\\source\\repos\\TechFix\\techfix\\placeorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{485307E9-A50D-49BD-83DC-3259F1DBB8D1}|TechFix\\TechFix.csproj|solutionrelative:techfix\\placeorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485307E9-A50D-49BD-83DC-3259F1DBB8D1}|TechFix\\TechFix.csproj|C:\\Users\\kariy\\source\\repos\\TechFix\\techfix\\model\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{485307E9-A50D-49BD-83DC-3259F1DBB8D1}|TechFix\\TechFix.csproj|solutionrelative:techfix\\model\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485307E9-A50D-49BD-83DC-3259F1DBB8D1}|TechFix\\TechFix.csproj|C:\\Users\\kariy\\source\\repos\\TechFix\\techfix\\supinventoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{485307E9-A50D-49BD-83DC-3259F1DBB8D1}|TechFix\\TechFix.csproj|solutionrelative:techfix\\supinventoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485307E9-A50D-49BD-83DC-3259F1DBB8D1}|TechFix\\TechFix.csproj|C:\\Users\\kariy\\source\\repos\\TechFix\\techfix\\placeorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{485307E9-A50D-49BD-83DC-3259F1DBB8D1}|TechFix\\TechFix.csproj|solutionrelative:techfix\\placeorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485307E9-A50D-49BD-83DC-3259F1DBB8D1}|TechFix\\TechFix.csproj|C:\\Users\\kariy\\source\\repos\\TechFix\\techfix\\orderhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{485307E9-A50D-49BD-83DC-3259F1DBB8D1}|TechFix\\TechFix.csproj|solutionrelative:techfix\\orderhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485307E9-A50D-49BD-83DC-3259F1DBB8D1}|TechFix\\TechFix.csproj|C:\\Users\\kariy\\source\\repos\\TechFix\\techfix\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{485307E9-A50D-49BD-83DC-3259F1DBB8D1}|TechFix\\TechFix.csproj|solutionrelative:techfix\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1013369848:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\kariy\\source\\repos\\TechFix\\TechFix\\Model\\Inventory.cs",
+              "RelativeDocumentMoniker": "TechFix\\Model\\Inventory.cs",
+              "ToolTip": "C:\\Users\\kariy\\source\\repos\\TechFix\\TechFix\\Model\\Inventory.cs",
+              "RelativeToolTip": "TechFix\\Model\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T05:28:34.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlaceOrderForm.cs",
+              "DocumentMoniker": "C:\\Users\\kariy\\source\\repos\\TechFix\\TechFix\\PlaceOrderForm.cs",
+              "RelativeDocumentMoniker": "TechFix\\PlaceOrderForm.cs",
+              "ToolTip": "C:\\Users\\kariy\\source\\repos\\TechFix\\TechFix\\PlaceOrderForm.cs",
+              "RelativeToolTip": "TechFix\\PlaceOrderForm.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAMwKkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:05:40.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlaceOrderForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kariy\\source\\repos\\TechFix\\TechFix\\PlaceOrderForm.cs",
+              "RelativeDocumentMoniker": "TechFix\\PlaceOrderForm.cs",
+              "ToolTip": "C:\\Users\\kariy\\source\\repos\\TechFix\\TechFix\\PlaceOrderForm.cs [Design]",
+              "RelativeToolTip": "TechFix\\PlaceOrderForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:05:38.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SupInventoryForm.cs",
+              "DocumentMoniker": "C:\\Users\\kariy\\source\\repos\\TechFix\\TechFix\\SupInventoryForm.cs",
+              "RelativeDocumentMoniker": "TechFix\\SupInventoryForm.cs",
+              "ToolTip": "C:\\Users\\kariy\\source\\repos\\TechFix\\TechFix\\SupInventoryForm.cs",
+              "RelativeToolTip": "TechFix\\SupInventoryForm.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAD4vxwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T02:17:06.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\kariy\\source\\repos\\TechFix\\TechFix\\App.config",
+              "RelativeDocumentMoniker": "TechFix\\App.config",
+              "ToolTip": "C:\\Users\\kariy\\source\\repos\\TechFix\\TechFix\\App.config",
+              "RelativeToolTip": "TechFix\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-10T06:23:14.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SupInventoryForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kariy\\source\\repos\\TechFix\\TechFix\\SupInventoryForm.cs",
+              "RelativeDocumentMoniker": "TechFix\\SupInventoryForm.cs",
+              "ToolTip": "C:\\Users\\kariy\\source\\repos\\TechFix\\TechFix\\SupInventoryForm.cs [Design]",
+              "RelativeToolTip": "TechFix\\SupInventoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T06:27:23.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderHistoryForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kariy\\source\\repos\\TechFix\\TechFix\\OrderHistoryForm.cs",
+              "RelativeDocumentMoniker": "TechFix\\OrderHistoryForm.cs",
+              "ToolTip": "C:\\Users\\kariy\\source\\repos\\TechFix\\TechFix\\OrderHistoryForm.cs [Design]",
+              "RelativeToolTip": "TechFix\\OrderHistoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T06:27:48.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kariy\\source\\repos\\TechFix\\TechFix\\Form1.cs",
+              "RelativeDocumentMoniker": "TechFix\\Form1.cs",
+              "ToolTip": "C:\\Users\\kariy\\source\\repos\\TechFix\\TechFix\\Form1.cs [Design]",
+              "RelativeToolTip": "TechFix\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T17:48:29.06Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
